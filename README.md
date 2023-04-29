@@ -23,6 +23,7 @@ These are Currency Convertor App in which you can one country to other country c
     - Splash Screen
     - Dark & Light Theme
     - Currency Convert
+    - Currency API Integration
     - Currency Rate
     - Create Number Buttons
     
